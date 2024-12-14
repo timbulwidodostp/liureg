@@ -1,6 +1,8 @@
 # liureg
 Liu estimation of linear regression model with collinear regressors Use liu (liureg) With (In) R Software
 
+https://www.youtube.com/watch?v=nzKsKLNaHHE
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
